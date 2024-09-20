@@ -1,6 +1,7 @@
 import { Open_Sans } from "next/font/google";
 import Link from "next/link";
 import styles from "./rootstyle.module.css";
+import "./global.css"
 
 const openSans = Open_Sans({
   subsets: ["latin"],
