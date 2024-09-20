@@ -4,7 +4,7 @@ import React from "react";
 const page = () => {
   return (
     <>
-      <h1>Sessions</h1>
+      <h1>Conference</h1>
       <h2>
         <Link href="/conference/speakers">Speakers</Link>
       </h2>
